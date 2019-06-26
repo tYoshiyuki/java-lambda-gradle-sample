@@ -1,5 +1,5 @@
 # java-lambda-sample
-Lambda (Java) で Kinesis からのイベント処理を行うサンプル
+Lambda (Java) で Kinesis からのイベント処理を行うサンプル (Gradle版) 
 
 ## Feature
 - Java
